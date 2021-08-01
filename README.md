@@ -40,4 +40,5 @@ Planets: https://swapi.dev/api/planets/
 │   .gitignore --> Arquivos ignorados do repositório (logs, reports)
 │   cucumber.yaml --> Configurações de uso do Cucumber
 │   README.md --> Descrição do projeto
+|   projeto_enjoei.postman_collection.json --> Collection de APIs com testes feitas no Postman
 ```
